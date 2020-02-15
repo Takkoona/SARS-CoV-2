@@ -1,0 +1,106 @@
+
+
+IMPORTANT WARNING: Sequences EPI_ISL_407214 and EPI_ISL_407215 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EPI_ISL_407214 and EPI_ISL_404895 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EPI_ISL_402124 and EPI_ISL_402119 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EPI_ISL_402124 and EPI_ISL_408479 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EPI_ISL_403936 and EPI_ISL_403937 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EPI_ISL_408009 and EPI_ISL_408008 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EPI_ISL_403932 and EPI_ISL_403935 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EPI_ISL_403932 and EPI_ISL_403933 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EPI_ISL_406717 and EPI_ISL_406716 are exactly identical
+
+IMPORTANT WARNING
+Found 9 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+sequence duplicates removed is printed to file aligned.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.10 released by Alexandros Stamatakis on March 2017.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 232 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 0.18%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 1 inferences on the original alignment using 1 distinct randomized MP trees
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 232
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+C:\Users\Chengyang Ji\AppData\Local\Programs\standard-RAxML-8.2.12\WindowsExecutables_v8.2.10\raxmlHPC.exe -p 12345 -s aligned.fasta -n GTRGAMMA -m GTRGAMMA -o EPI_ISL_402131 
+
+
+Partition: 0 with name: No Name Provided
+Base frequencies: 0.299 0.184 0.196 0.321 
+
+Inference[0]: Time 17.294914 GAMMA-based likelihood -47106.907625, best rearrangement setting 15
+alpha[0]: 0.846567 rates[0] ac ag at cg ct gt: 0.994418 6.539762 1.610545 0.789806 17.633274 1.000000 
+
+
+Conducting final model optimizations on all 1 trees under GAMMA-based models ....
+
+Inference[0] final GAMMA-based Likelihood: -47106.907380 tree written to file C:\Users\Chengyang Ji\Projects\SARS-CoV-2\Genome_tree\RAxML_result.GTRGAMMA
+
+
+Starting final GAMMA-based thorough Optimization on tree 0 likelihood -47106.907380 .... 
+
+Final GAMMA-based Score of best tree -47106.907360
+
+Program execution info written to C:\Users\Chengyang Ji\Projects\SARS-CoV-2\Genome_tree\RAxML_info.GTRGAMMA
+Best-scoring ML tree written to: C:\Users\Chengyang Ji\Projects\SARS-CoV-2\Genome_tree\RAxML_bestTree.GTRGAMMA
+
+Overall execution time: 22.520702 secs or 0.006256 hours or 0.000261 days
+

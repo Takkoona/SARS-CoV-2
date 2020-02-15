@@ -1,13 +1,16 @@
 #!/bin/bash
 
+cd ./Genome_tree
+
 input="raw.fasta"
 output="aligned.fasta"
 
-cd ./Genome_tree
+outgroup=$(cat outgroup.txt)
+echo $outgroup
 
-muscle -in $input -out $output && \
+mafft $input > $output && \
 raxmlHPC -p 12345 \
          -s $output \
          -n GTRGAMMA \
          -m GTRGAMMA \
-         -o $(cat outgroup.txt)
+         -o $outgroup
