@@ -1,100 +1,169 @@
-Virus name,Accession ID,Type,Passage details/history,Collection date,Location,Host,Gender,Patient age,Patient status,Specimen source,Additional host information,Outbreak,Last vaccinated,Treatment,Sequencing technology,Assembly method,Coverage,
-BetaCoV/USA/WA1-F6/2020,EPI_ISL_407215,betacoronavirus,Vero p1,2020-01-25,North America / USA / Washington,Human,male,35,,oropharyngeal swab,,,,,Sanger Nanopore,Sequencher 5.4.6 minimap 2.17,100X,
-BetaCoV/Vietnam/VR03-38142/2020,EPI_ISL_408668,betacoronavirus,Vero P2,2020-01-24,Asia / Vietnam / Thanh Hoa,Human,Female,25,,,,,,,Illumina Miseq,CLC Genomics Workbench 12,,
-BetaCoV/Germany/BavPat1/2020,EPI_ISL_406862,betacoronavirus,Original,2020-01-28,Europe / Germany / Bavaria / Munich,Human,male,NA,hospitalized,Sputum,,Bavaria cluster patient 1,,,Illumina MiSeq Nanopore MinION,Geneious v9,,
-BetaCoV/Guangdong/20SF012/2020,EPI_ISL_403932,betacoronavirus,Original,2020-01-14,Asia / China / Guandong / Shenzhen,Human,Male,66,,endotracheal aspirates,,Family cluster infection,,,illumina,SPAdes/MEGAHIT,100%,
-BetaCoV/Chongqing/IVDC-CQ-001/2020,EPI_ISL_408481,betacoronavirus,Original,2020-01-18,Asia / China / Chongqing,Human,female,44,recovered,Throat swab,,,,,Illumina MiSeq; Nanopore,CLC Genomics Workbench 20.0.2,,
-BetaCoV/Guangzhou/20SF206/2020,EPI_ISL_406533,betacoronavirus,Original,2020-01-22,Asia / China / Guangdong / Guangzhou,Human,Female,73,,,,,,,,,,
-BetaCoV/Yunnan/IVDC-YN-003/2020,EPI_ISL_408480,betacoronavirus,Original,2020-01-17,Asia / China / Yunnan / Kunming,Human,male,56,recovered,sputum,,,,,Illumina MiSeq; Nanopore,CLC Genomics Workbench 20.0.2,,
-BetaCoV/Guangdong/20SF013/2020,EPI_ISL_403933,betacoronavirus,Original,2020-01-15,Asia / China / Guandong / Shenzhen,Human,Femal,65,,endotracheal aspirates,,Family cluster infection,,,illumina,SPAdes/MEGAHIT,100%,
-BetaCoV/Japan/KY-V-029/2020,EPI_ISL_408669,betacoronavirus,VeroE6/TMPRSS2,2020-01-29,Asia / Japan / Kyoto,Human,female,25,pneumonia (chest X-ray),Pharyngeal swab,,,,,NextSeq500,A5-miseq v. 20140604,1565x,
-BetaCoV/USA/WA1-A12/2020,EPI_ISL_407214,betacoronavirus,Vero p1,2020-01-25,North America / USA / Washington,Human,male,35,,nasopharyngeal swab,,,,,Sanger Nanopore,Sequencher 5.4.6 minimap 2.17,100X,
-BetaCoV/Wuhan/IPBCAMS-WH-02/2019,EPI_ISL_403931,betacoronavirus,Original,2019-12-30,Asia / China / Hubei / Wuhan,Human,Female,49,,Bronchoalveolar lavage fluid,,,,,,,,
-BetaCoV/USA/IL1/2020,EPI_ISL_404253,unclassified betacoronavirus,Original,2020-01-21,North America / USA / Illinois / Chicago,Human,Female,63,unknown,sputum,,,,,Sanger; Nanopore,minimap 2.17,>20X,
-BetaCoV/Shandong/IVDC-SD-001/2020,EPI_ISL_408482,betacoronavirus,Original,2020-01-19,Asia / China / Shandong / Qingdao,Human,male,37,recovered,Sputum,,,,,Illumina MiSeq; Nanopore,CLC Genomics Workbench 20.0.2,,
-BetaCoV/Guangdong/20SF174/2020,EPI_ISL_406531,betacoronavirus,Original,2020-01-22,Asia / China / Guangdong / Zhuhai,Human,Male,77,,,,,,,,,,
-BetaCoV/Wuhan/IPBCAMS-WH-03/2019,EPI_ISL_403930,betacoronavirus,Original,2019-12-30,Asia / China / Hubei / Wuhan,Human,Male,41,,Bronchoalveolar lavage fluid,,,,,,,,
-BetaCoV/Guangdong/20SF014/2020,EPI_ISL_403934,betacoronavirus,Original,2020-01-15,Asia / China / Guandong / Shenzhen,Human,Male,63,,bronchoalveolar lavage fluid,,,,,illumina,SPAdes/MEGAHIT,100%,
-BetaCoV/Singapore/2/2020,EPI_ISL_407987,betacoronavirus,Vero P3,2020-01-25,Asia / Singapore,Human,Male,37,,,,,,,Illumina Miseq,UGENE v. 33,20000x,
-BetaCoV/Chongqing/YC01/2020,EPI_ISL_408478,betacoronavirus,Original,2020-01-21,Asia / China / Chongqinq / Yongchuan,Human,male,46,,Nasopharyngeal swab,,,,,llumina Miseq,CLC Genomics Workbench 11,10000x (average),
-BetaCoV/Foshan/20SF210/2020,EPI_ISL_406535,betacoronavirus,Original,2020-01-22,Asia / China / Guangdong / Foshan,Human,Female,57,,,Family cluster infection,,,,,,,
-BetaCoV/Italy/INMI1/2020,EPI_ISL_408068,betacoronavirus,Original,2020-01-29,Europe / Italy / Rome,Human,male,67,hospitalized,Oro-pharyngeal swab,Patient infected in Wuhan,,,,Sanger,SeqA BioEdit,,
-BetaCoV/Foshan/20SF207/2020,EPI_ISL_406534,betacoronavirus,Original,2020-01-22,Asia / China / Guangdong / Foshan,Human,Male,57,,,,,,,,,,
-BetaCoV/Jiangxi/IVDC-JX-002/2020,EPI_ISL_408486,betacoronavirus,Original,2020-01-11,Asia / China / Jiangxi / Pingxiang,Human,male,50,recovered,Sputum,,,,,Illumina MiSeq; Nanopore,CLC Genomics Workbench 20.0.2,,
-BetaCoV/Chongqing/ZX01/2020,EPI_ISL_408479,betacoronavirus,Original,2020-01-23,Asia / China / Chongqing / Zhongxian,Human,female,50,,nasopharyngeal swab,,,,,llumina Miseq,CLC Genomics Workbench 11,10000x (average),
-BetaCoV/Guangdong/20SF025/2020,EPI_ISL_403935,betacoronavirus,Original,2020-01-15,Asia / China / Guangdong / Shenzhen,Human,Female,63,,throat swab,,Family cluster infection,,,illumina,SPAdes/MEGAHIT,100%,
-BetaCoV/Guangdong/20SF040/2020,EPI_ISL_403937,betacoronavirus,Original,2020-01-18,Asia / China / Guangdong / Zhuhai,Human,Male,49,,nasal swab,,Family cluster infection,,,illumina,SPAdes/MEGAHIT,100%,
-BetaCoV/Sichuan/IVDC-SC-001/2020,EPI_ISL_408484,betacoronavirus,Original,2020-01-15,Asia / China / Sichuan / Chengdu,Human,male,35,recovered,Bronchoalveolar lavage fluid,,,,,Illumina MiSeq; Nanopore,CLC Genomics Workbench 20.0.2,,
-BetaCoV/Foshan/20SF211/2020,EPI_ISL_406536,betacoronavirus,Original,2020-01-22,Asia / China / Guangdong / Foshan,Human,Male,57,,,Family cluster infection,,,,,,,
-BetaCoV/Guangdong/20SF028/2020,EPI_ISL_403936,betacoronavirus,Original,2020-01-17,Asia / China / Guangdong / Zhuhai,Human,Male,68,,throat swab,,Family cluster infection,,,illumina,SPAdes/MEGAHIT,100%,
-BetaCov/Wuhan/WH04/2020,EPI_ISL_406801,betacoronavirus,Original,2020-01-05,Asia / China / Hubei / Wuhan,Human,male,39,unknown,Bronchoalveolar Lavage NCIT_C51913,,,,,DNBSEQ,SPAdes v.3.12.0,161x,
-BetaCoV/Wuhan/WIV07/2019,EPI_ISL_402130,betacoronavirus,Original,2019-12-30,Asia / China / Hubei / Wuhan,Human,Male,56,hospitalized,Bronchoalveolar lavage fluid,5' and 3' Race was not performed,2019-12-20,,,Illumina MiSeq_MGISEQ 2000,Geneious v11.0.3_MEGAHIT v1.2.9,,
-BetaCoV/Zhejiang/WZ-01/2020,EPI_ISL_404227,betacoronavirus,Original,2020-01-16,Asia / China / Zhejiang,Human,Male,46,hospitalized,Sputum,Patient came from Wuhan China,,,,Sanger,,,
-BetaCoV/Wuhan/WIV04/2019,EPI_ISL_402124,betacoronavirus,Original,2019-12-30,Asia / China / Hubei / Wuhan,Human,Female,49,Live,Bronchoalveolar lavage fluid,,2019-12-27,,,,,,
-BetaCoV/Australia/QLD02/2020,EPI_ISL_407896,betacoronavirus,Original,2020-01-30,Oceania / Australia / Queensland / Gold Coast,Human,Female,42,Unkown,Pharyngeal swab,Patient from Wuhan China,,,,Illumina NextSeq,Geneious 11.1.5,385,
-BetaCoV/Shenzhen/SZTH-002/2020,EPI_ISL_406593,betacoronavirus,Original,2020-01-13,Asia / China / Guandong / Shenzhen,Human,male,66,hospitalized,Alveolar lavage fluid,,,,,Illumina Miseq,,,
-BetaCoV/USA/CA1/2020,EPI_ISL_406034,betacoronavirus,Original,2020-01-23,North America / USA / California / Los Angeles,Human,male,38,,nasopharyngeal swab,,,,,Sanger Nanopore,Sequencher 5.4.6_minimap 2.17,>100x,
-BetaCoV/Italy/INMI2/2020,EPI_ISL_406960,betacoronavirus,unknown,2020-01,Europe / Italy / Rome,Human,unknown,unknown,,nasopharyngeal swab,,,,,Sanger dideoxy sequencing,,,
-BetaCoV/Shenzhen/SZTH-001/2020,EPI_ISL_406592,betacoronavirus,Original,2020-01-13,Asia / China / Guandong / Shenzhen,Human,female,65,hospitalized,Alveolar lavage fluid,,,,,,,,
-BetaCoV/USA/AZ1/2020,EPI_ISL_406223,betacoronavirus,Original,2020-01-22,North America / USA / Arizona / Phoenix,Human,male,26,,buccal swab,,,,,Sanger Nanopore,Sequencher 5.4.6_minimap 2.17,>100x,
-BetaCoV/Wuhan-Hu-1/2019,EPI_ISL_402125,betacoronavirus,unknown,2019-12,Asia / China,Human,unknown,unknown,,unknown,,,,,,,,
-BetaCoV/bat/Yunnan/RaTG13/2013,EPI_ISL_402131,SARS-related coronavirus,Original,2013-07-24,Asia / China / Yunnan / Pu'er,Rhinolophus affinis,male,unknown,,Fecal swab,,,,,Illumina HiSeq 3000,CLC Genomics Workbench v12.0,,
-BetaCoV/Wuhan/IVDC-HB-01/2019,EPI_ISL_402119,betacoronavirus,Virus Isolate Passage 1,2019-12-30,Asia / China / Hubei / Wuhan,Human,Female,49,,Alveolar lavage fluid,,,,,,,,
-BetaCov/Wuhan/WH03/2020,EPI_ISL_406800,betacoronavirus,Original,2020-01-01,Asia / China / Hubei / Wuhan,Human,female,21,unknown,Bronchoalveolar Lavage NCIT_C51913,,,,,DNBSEQ,SPAdes v.3.12.0,107x,
-BetaCoV/Wuhan/WIV02/2019,EPI_ISL_402127,betacoronavirus,Original,2019-12-30,Asia / China / Hubei / Wuhan,Human,Male,32,hospitalized,Bronchoalveolar lavage fluid,5' and 3' Race was not performed,2019-12-19,,,Illumina MiSeq_MGISEQ 2000,Geneious v11.0.3_MEGAHIT v1.2.9,,
-BetaCoV/USA/CA2/2020,EPI_ISL_406036,betacoronavirus,Original,2020-01-22,North America / USA / California / Orange County,Human,male,54,,nasopharyngeal swab,,,,,Sanger Nanopore,Sequencher 5.4.6_minimap 2.17,>100x,
-BetaCoV/Australia/QLD01/2020,EPI_ISL_407894,betacoronavirus,Original,2020-01-28,Oceania / Australia / Queensland / Gold Coast,Human,Male,44,Unknown,Pharyngeal swab,Patient from Wuhan China,,,,Illumina NextSeq,Geneious 11.1.5,488,
-BetaCoV/Wuhan/HBCDC-HB-01/2019,EPI_ISL_402132,betacoronavirus,Original,2019-12-30,Asia / China / Hubei / Wuhan,Human,Female,49,hospitalized,Alveolar lavage fluid,,,,,Illumina Miseq,CLC Genomics Workbench 12 and Geneious 12.0.1,,
-BetaCoV/USA-MA1/2020,EPI_ISL_409067,betacoronavirus,Original,2020-01-29,North America / USA / Massachusetts,Human,Male,21,,oropharyngeal swab,,,,,Sanger Nanopore,Sequencher 5.4.6 minimap 2.17,100X,
-BetaCoV/Kanagawa/1/2020,EPI_ISL_402126,betacoronavirus,Original,2020-01-14,Asia / Japan / Kanagawa,Human,Male,30s,Live,Throat swab,Patient infected in Wuhan China,,,,,,,
-BetaCoV/Shenzhen/SZTH-004/2020,EPI_ISL_406595,betacoronavirus,Original,2020-01-16,Asia / China / Guandong / Shenzhen,Human,male,63,hospitalized,Alveolar lavage fluid,,,,,,,,
-BetaCoV/Sydney/2/2020,EPI_ISL_408976,betacoronavirus,Vero P1,2020-01-22,Oceania / Australia / New South Wales / Sydney,Human,male,53,Recovered,Nasopharyngeal swab,,,,,Illumina NextSeq & iSeq,Geneious Prime 2020.0.5,2350x,
-BetaCoV/Singapore/1/2020,EPI_ISL_406973,betacoronavirus,Original,2020-01-23,Asia / Singapore,Human,Male,66,,Sputum,Patient from Wuhan,,,,Illumina Miseq Sanger,,,
-BetaCoV/Sydney/3/2020,EPI_ISL_408977,betacoronavirus,Original,2020-01-25,Oceania / Australia / New South Wales / Sydney,Human,female,21,Recovered,Nasopharyngeal swab,,,,,Illumina iSeq,Geneious Prime 2020.0.5,2649x,
-BetaCoV/Shenzhen/SZTH-003/2020,EPI_ISL_406594,betacoronavirus,Original,2020-01-16,Asia / China / Guandong / Shenzhen,Human,male,62,hospitalized,Alveolar lavage fluid,,,,,,,,
-BetaCoV/England/02/2020,EPI_ISL_407073,betacoronavirus,Original,2020-01-29,Europe / England,Human,male,23,,swab,,England cluster patient 2,,,Illumina HiSeq,PHE pipeline (BWA-SAMtools-Quasibam),17000x,
-BetaCoV/Wuhan/IPBCAMS-WH-01/2019,EPI_ISL_402123,betacoronavirus,Original,2019-12-24,Asia / China / Hubei / Wuhan,Human,Male,65,,Bronchoalveolar lavage fluid,,,,,,,,
-BetaCoV/Wuhan/IVDC-HB-05/2019,EPI_ISL_402121,betacoronavirus,Original,2019-12-30,Asia / China / Hubei / Wuhan,Human,Male,32,,Alveolar lavage fluid,,,,,,,,
-BetaCoV/England/01/2020,EPI_ISL_407071,betacoronavirus,Original,2020-01-29,Europe / England,Human,Female,50,,swab,,England cluster patient 1,,,Illumina HiSeq,PHE pipeline (BWA-SAMtools-Quasibam),13000x,
-BetaCoV/France/IDF0515/2020,EPI_ISL_408430,betacoronavirus,Original,2020-01-29,Europe / France / Ile-de-France / Paris,Human,female,47,hospitalized,Oro-pharyngeal swab,,,,,Illumina NextSeq 500,CLC Genomics Workbench 20,500x,
-BetaCoV/Australia/NSW01/2020,EPI_ISL_407893,betacoronavirus,Original,2020-01-24,Oceania / Australia / New South Wales / Sydney,Human,Male,43,Recovering,Nasopharyngeal swab,,,,,Illumina NextSeq,Geneious Prime 2020.0.5,24038x,
-BetaCoV/France/IDF0372/2020,EPI_ISL_406596,betacoronavirus,Original,2020-01-23,Europe / France / Ile-de-France / Paris,Human,female,31,unknown,Oro-Pharyngeal swab,,,,,Illumina NextSeq 500,CLC Genomics Workbench 20,500x,
-BetaCoV/USA/CA3/2020,EPI_ISL_408008,betacoronavirus,Original,2020-01-29,North America / USA / California,Human,male,57,,nasopharyngeal swab,,,,,Sanger,Sequencher 5.4.6,,
-BetaCoV/Taiwan/2/2020,EPI_ISL_406031,betacoronavirus,Original,2020-01-23,Asia / Taiwan / Kaohsiung,Human,male,59,,,,,,,,,,
-BetaCoV/Hangzhou/HZCDC0001/2020,EPI_ISL_407313,betacoronavirus,Original,2020-01-19,Asia / China / Zhejiang / Hangzhou,Human,Male,32,Hospitalized,Sputum,Patient infected in Wuhan China,,,,Nanopore MinION,artic-ncov2019 and Geneious 11.1.5,> 20000x (average),
-BetaCoV/Hong Kong/VM20001061/2020,EPI_ISL_408975,betacoronavirus,Original,2020-01-22,Asia / Hong Kong,Human,Male,39,,Nasopharyngeal aspirate & Tracheal swab,,,,,Sanger,,,
-BetaCoV/Hangzhou/HZ-1/2020,EPI_ISL_406970,betacoronavirus,Original,2020-01-20,Asia / China / Zhejiang / Hangzhou,Human,male,32,hospitalized,Sputum,Patient return form Wuhan China,2020-01-18,,,Illumina Miseq,bwa & samtools,5073x (average),
-BetaCoV/Italy/INMI1/2020,EPI_ISL_406959,betacoronavirus,unknown,2020-01,Europe / Italy / Rome,Human,unknown,unknown,,nasopharyngeal swab,,,,,,,,
-BetaCoV/Shenzhen/HKU-SZ-002/2020,EPI_ISL_406030,betacoronavirus,Original,2020-01-10,Asia / China / Guangdong / Shenzhen,Human,male,66,,nasopharyngeal swab,,,,,Nanopore MinION,minimap2,,
-BetaCoV/USA/CA4/2020,EPI_ISL_408009,betacoronavirus,Original,2020-01-29,North America / USA / California,Human,female,57,,oropharyngeal swab,,,,,Sanger,Sequencher 5.4.6,,
-BetaCoV/France/IDF0373/2020,EPI_ISL_406597,betacoronavirus,Original,2020-01-23,Europe / France / Ile-de-France / Paris,Human,male,32,unknown,Orao-pharungeal swab,Patient infected in Wuhan China,,,,Illumina NextSeq 500,CLC Genomics Workbench 20,500x,
-BetaCov/France/IDF0626/2020,EPI_ISL_408431,betacoronavirus,Original,2020-01-29,Europe / France / Ile-de-France / Paris,Human,male,53,hospitalized,Oro-pharyngeal swab,,,,,Illumina NextSeq 500,CLC Genomics Workbench 20,500x,
-BetaCoV/Wuhan/IVDC-HB-04/2020,EPI_ISL_402120,betacoronavirus,Original,2020-01-01,Asia / China / Hubei / Wuhan,Human,Male,61,,Alveolar lavage fluid,,,,,,,,
-BetaCoV/USA/CA5/2020,EPI_ISL_408010,betacoronavirus,Original,2020-01-29,North America / USA / California,Human,female,54,,oropharyngeal swab,,,,,Sanger,Sequencher 5.4.6,,
-BetaCov/Wuhan/WH01/2019,EPI_ISL_406798,betacoronavirus,Original,2019-12-26,Asia / China / Hubei / Wuhan,Human,male,44,unknown,Bronchoalveolar Lavage NCIT_C51913,,,,,DNBSEQ,SPAdes v.3.12.0,85x,
-BetaCoV/Nonthaburi/61/2020,EPI_ISL_403962,betacoronavirus,Original,2020-01-08,Asia / Thailand / Nonthaburi,Human,Female,61,recovered,Nasopharyngeal swab and Throat swab,Patient came from Wuhan China,,,,Illumina Miseq,CLC Genomics Workbench 12 and Geneious 10.2.4,,
-BetaCoV/Zhejiang/WZ-02/2020,EPI_ISL_404228,betacoronavirus,Original,2020-01-17,Asia / China / Zhejiang,Human,Male,47,hospitalized,Sputum,Patient came from Wuhan China,,,,Sanger,,,
-BetaCoV/Japan/AI/I-004/2020,EPI_ISL_407084,betacoronavirus,VeroE6/TMPRSS2,2020-01-25,Asia / Japan / Aichi,Human,male,48,pneumonia (chest X-ray) not critical,Pharyngeal swab,,,,,NextSeq500,A5-miseq v. 20140604,3000x,
-BetaCoV/Nonthaburi/74/2020,EPI_ISL_403963,betacoronavirus,Original,2020-01-13,Asia / Thailand / Nonthaburi,Human,Female,74,Live,Nasopharyngeal swab and Throat swab,Patient came from Wuhan China,,,,Illumina Miseq,CLC Genomics Workbench 12 and Geneious 10.2.4,,
-BetaCoV/Wuhan/WIV05/2019,EPI_ISL_402128,betacoronavirus,Original,2019-12-30,Asia / China / Hubei / Wuhan,Human,Female,52,recovered,Bronchoalveolar lavage fluid,5' and 3' Race was not performed,2019-12-22,,,MGISEQ 2000,Geneious v11.0.3_MEGAHIT v1.2.9,,
-BetaCoV/Wuhan/WIV06/2019,EPI_ISL_402129,betacoronavirus,Original,2019-12-30,Asia / China / Hubei / Wuhan,Human,Male,40,hospitalized,Bronchoalveolar lavage fluid,5' and 3' Race was not performed,2019-12-25,,,Illumina MiSeq_MGISEQ 2000,Geneious v11.0.3_MEGAHIT v1.2.9,,
-BetaCoV/Finland/1/2020,EPI_ISL_407079,betacoronavirus,Original,2020-01-29,Europe / Finland / Lapland,Human,female,32,hospitalized,nasopharyngeal swab,,,,,Illumina Miseq,MEGAHIT BWA-MEM,20x,
-BetaCoV/Singapore/3/2020,EPI_ISL_407988,betacoronavirus,Vero P2,2020-02-01,Asia / Singapore,Human,M,56,,,,,,,Illumina Miseq,UGENE v. 33,35000x,
-BetaCoV/Jiangsu/IVDC-JS-001/2020,EPI_ISL_408488,betacoronavirus,Original,2020-01-19,Asia / China / Jiangsu / Huaian,Human,male,37,recovered,Alveolar lavage fluid,,,,,Illumina MiSeq; Nanopore,CLC Genomics Workbench 20.0.2,,
-BetaCoV/Taiwan/NTU01/2020,EPI_ISL_408489,betacoronavirus,LLC-MK2 cells,2020-01-31,Asia / Taiwan / Taipei,Human,female,50,hospitalized,Sputum,Tourist from Wuhan China,,,,Sanger,,,
-BetaCoV/Belgium/GHB-03021/2020,EPI_ISL_407976,betacoronavirus,Original,2020-02-03,Europe / Belgium / Leuven,Human,Male,54,asymptomatic,Oro-pharyngael swab,Patient probably infected in Wuhan. Found positive the day of return to Belgium,,,,Nanopore MinION,MiniMap 2.17 CLC Genomics Workbench 20,>12000x,
-BetaCoV/Shenzhen/HKU-SZ-005/2020,EPI_ISL_405839,betacoronavirus,Original,2020-01-11,Asia / China / Guangdong / Shenzhen,Human,male,10,,Sputum,,,,,Nanopore MinION,minimap2,,
-BetaCoV/Wuhan/IVDC-HB-envF13-20/2020,EPI_ISL_408514,betacoronavirus,P1,2020-01-01,Asia / China / Hubei / Wuhan,Environment,not applicable,0,,,,,,,NGS,,,
-BetaCoV/Wuhan/IVDC-HB-envF13-21/2020,EPI_ISL_408515,betacoronavirus,P1,2020-01-01,Asia / China / Hubei / Wuhan,Environment,not applicable,0,,,,,,,NGS,,,
-BetaCoV/Guangdong/20SF201/2020,EPI_ISL_406538,betacoronavirus,Original,2020-01-23,Asia / China / Guangdong,Human,Male,25,,,,,,,,,,
-BetaCoV/Wuhan/IPBCAMS-WH-05/2020,EPI_ISL_403928,betacoronavirus,Original,2020-01-01,Asia / China / Hubei / Wuhan,Human,Male,61,,Bronchoalveolar lavage fluid,,,,,,,,
-BetaCoV/Japan/TY-WK-521/2020,EPI_ISL_408667,betacoronavirus,VeroE6/TMPRSS2,2020-01-31,Asia / Japan / Tokyo,Human,N/A,N/A,,Pharyngeal swab,,,,,NextSeq500,A5-miseq v. 20140604,1500x,
-BetaCoV/Wuhan/IPBCAMS-WH-04/2019,EPI_ISL_403929,betacoronavirus,Original,2019-12-30,Asia / China / Hubei / Wuhan,Human,Female,52,,Bronchoalveolar lavage fluid,,,,,,,,
-BetaCoV/Korea/KCDC03/2020,EPI_ISL_407193,betacoronavirus,Vero P1,2020-01-25,Asia / Korea / Gyeonggi-do,Human,male,54,,Throat swab,,,,,,,,
-BetaCoV/China/WHU01/2020,EPI_ISL_406716,betacoronavirus,Original,2020-01-02,Asia / China / Hubei / Wuhan,Human,unknown,unknown,,BALF sample of 2019 Wuhan peumonia patient 01,,,,,Illumina,MEGAHIT v. 2015; DIAMOND v. 2015; MetaPh1An2 v. 2015,,
-BetaCoV/China/WHU02/2020,EPI_ISL_406717,betacoronavirus,Original,2020-01-02,Asia / China / Hubei / Wuhan,Human,unknown,unknown,,BALF sample of 2019 Wuhan peumonia patient 02,,,,,Illumina,MEGAHIT v. 2015; DIAMOND v. 2015; MetaPh1An2 v. 2015,,
-BetaCoV/Australia/VIC01/2020,EPI_ISL_406844,betacoronavirus,Original,2020-01-25,Oceania / Australia / Victoria / Clayton,Human,Male,50,,,,,,,Illumina Nanopore,Minimap v. 2.17_Geneious Prime v.2019.2.1_Shovill v. 1.0.9,>260000,
-BetaCoV/Japan/TY-WK-501/2020,EPI_ISL_408666,betacoronavirus,VeroE6/TMPRSS2,2020-01-31,Asia / Japan / Tokyo,Human,N/A,N/A,Asymptomatic,Pharyngeal swab,,,,,NextSeq500,A5-miseq v. 20140604,1247x,
-BetaCoV/USA/WI1/2020,EPI_ISL_408670,betacoronavirus,Original,2020-01-31,North America / USA / Wisconsin,Human,Female,52,,nasopharyngeal swab,,,,,Sanger,Sequencher 5.4.6,,
-BetaCoV/USA/WA1/2020,EPI_ISL_404895,betacoronavirus,Original,2020-01-19,North America / USA / Washington / Snohomish County,Human,Male,30s,unknown,oropharyngeal swab,,,,,unknown,unknown,,
-BetaCoV/Japan/TY-WK-012/2020,EPI_ISL_408665,betacoronavirus,VeroE6/TMPRSS2,2020-01-29,Asia / Japan / Tokyo,Human,N/A,N/A,,Pharyngeal swab,,,,,NextSeq500,A5-miseq v. 20140604,1565x,
+Accession ID,Virus name,City,Province,Country,Collection date
+EPI_ISL_407215,BetaCoV/USA/WA1-F6/2020,Washington,Washington,USA,2020-01-25
+EPI_ISL_406862,BetaCoV/Germany/BavPat1/2020,Munich,Bavaria,Germany,2020-01-28
+EPI_ISL_403932,BetaCoV/Guangdong/20SF012/2020,Shenzhen,Guandong,China,2020-01-14
+EPI_ISL_408481,BetaCoV/Chongqing/IVDC-CQ-001/2020,Chongqing,Chongqing,China,2020-01-18
+EPI_ISL_410345,BetaCoV/Philippines/022N/2020,,,Philippines,2020-01-23
+EPI_ISL_406533,BetaCoV/Guangzhou/20SF206/2020,Guangzhou,Guangdong,China,2020-01-22
+EPI_ISL_410344,BetaCoV/Philippines/025N/2020,,,Philippines,2020-01-26
+EPI_ISL_408480,BetaCoV/Yunnan/IVDC-YN-003/2020,Kunming,Yunnan,China,2020-01-17
+EPI_ISL_410218,BetaCov/Taiwan/NTU02/2020,Taipei,Taiwan,China,2020-02-05
+EPI_ISL_403933,BetaCoV/Guangdong/20SF013/2020,Shenzhen,Guandong,China,2020-01-15
+EPI_ISL_408669,BetaCoV/Japan/KY-V-029/2020,Kyoto,Kyoto,Japan,2020-01-29
+EPI_ISL_407214,BetaCoV/USA/WA1-A12/2020,Washington,Washington,USA,2020-01-25
+EPI_ISL_403931,BetaCoV/Wuhan/IPBCAMS-WH-02/2019,Wuhan,Hubei,China,2019-12-30
+EPI_ISL_404253,BetaCoV/USA/IL1/2020,Chicago,Illinois,USA,2020-01-21
+EPI_ISL_408482,BetaCoV/Shandong/IVDC-SD-001/2020,Qingdao,Shandong,China,2020-01-19
+EPI_ISL_406531,BetaCoV/Guangdong/20SF174/2020,Zhuhai,Guangdong,China,2020-01-22
+EPI_ISL_408483,BetaCoV/Shanghai/IVDC-SH-001/2020,Shanghai,Shanghai,China,2020-01-20
+EPI_ISL_403930,BetaCoV/Wuhan/IPBCAMS-WH-03/2019,Wuhan,Hubei,China,2019-12-30
+EPI_ISL_403934,BetaCoV/Guangdong/20SF014/2020,Shenzhen,Guandong,China,2020-01-15
+EPI_ISL_407987,BetaCoV/Singapore/2/2020,,,Singapore,2020-01-25
+EPI_ISL_408478,BetaCoV/Chongqing/YC01/2020,Yongchuan,Chongqinq,China,2020-01-21
+EPI_ISL_409000,BetaCoV/Hong Kong/VM20001403/2020,Hong Kong,Hong Kong,China,2020-01-26
+EPI_ISL_408487,BetaCoV/Henan/IVDC-HeN-002/2020,Zhengzhou,Henan,China,2020-01-20
+EPI_ISL_406535,BetaCoV/Foshan/20SF210/2020,Foshan,Guangdong,China,2020-01-22
+EPI_ISL_408068,BetaCoV/Italy/INMI1/2020, Rome,Lazio,Italy,2020-01-29
+EPI_ISL_406534,BetaCoV/Foshan/20SF207/2020,Foshan,Guangdong,China,2020-01-22
+EPI_ISL_408486,BetaCoV/Jiangxi/IVDC-JX-002/2020,Pingxiang,Jiangxi ,China,2020-01-11
+EPI_ISL_408479,BetaCoV/Chongqing/ZX01/2020,Zhongxian,Chongqing,China,2020-01-23
+EPI_ISL_409001,BetaCoV/Hong Kong/VM20001794/2020,Hong Kong,Hong Kong,China,2020-01-29
+EPI_ISL_403935,BetaCoV/Guangdong/20SF025/2020,Shenzhen,Guandong,China,2020-01-15
+EPI_ISL_403937,BetaCoV/Guangdong/20SF040/2020,Zhuhai,Guangdong,China,2020-01-18
+EPI_ISL_408484,BetaCoV/Sichuan/IVDC-SC-001/2020,Chengdu,Sichuan,China,2020-01-15
+EPI_ISL_406536,BetaCoV/Foshan/20SF211/2020,Foshan,Guangdong,China,2020-01-22
+EPI_ISL_408485,BetaCoV/Beijing/IVDC-BJ-005/2020,Beijing,Beijing,China,2020-01-18
+EPI_ISL_409002,BetaCoV/Hong Kong/VM20001776/2020,Hong Kong,Hong Kong,China,2020-01-29
+EPI_ISL_403936,BetaCoV/Guangdong/20SF028/2020,Zhuhai,Guangdong,China,2020-01-17
+EPI_ISL_410044,BetaCoV/USA/CA6/2020,,California,USA,2020-01-27
+EPI_ISL_406801,BetaCov/Wuhan/WH04/2020,Wuhan,Hubei,China,2020-01-05
+EPI_ISL_402130,BetaCoV/Wuhan/WIV07/2019,Wuhan,Hubei,China,2019-12-30
+EPI_ISL_404227,BetaCoV/Zhejiang/WZ-01/2020,Wenzhou,Zhejiang,China,2020-01-16
+EPI_ISL_402124,BetaCoV/Wuhan/WIV04/2019,Wuhan,Hubei,China,2019-12-30
+EPI_ISL_407896,BetaCoV/Australia/QLD02/2020,Gold Coast,Queensland,Australia,2020-01-30
+EPI_ISL_406593,BetaCoV/Shenzhen/SZTH-002/2020,Shenzhen,Guandong,China,2020-01-13
+EPI_ISL_406034,BetaCoV/USA/CA1/2020,Los Angeles,California,USA,2020-01-23
+EPI_ISL_406960,BetaCoV/Italy/INMI2/2020,Rome,Lazio,Italy,2020-01-20
+EPI_ISL_406592,BetaCoV/Shenzhen/SZTH-001/2020,Shenzhen,Guandong,China,2020-01-13
+EPI_ISL_406223,BetaCoV/USA/AZ1/2020,Phoenix,Arizona,USA,2020-01-22
+EPI_ISL_402125,BetaCoV/Wuhan-Hu-1/2019,Wuhan,Hubei,China,2020-12-19
+EPI_ISL_402131,BetaCoV/bat/Yunnan/RaTG13/2013,Pu'er,Yunnan,China,2013-07-24
+EPI_ISL_402119,BetaCoV/Wuhan/IVDC-HB-01/2019,Wuhan,Hubei,China,2019-12-30
+EPI_ISL_406800,BetaCov/Wuhan/WH03/2020,Wuhan,Hubei,China,2020-01-01
+EPI_ISL_410045,BetaCoV/USA/IL2/2020,,Illinois,USA,2020-01-28
+EPI_ISL_402127,BetaCoV/Wuhan/WIV02/2019,Wuhan,Hubei,China,2019-12-30
+EPI_ISL_408998,BetaCoV/Hong Kong/VM20001387/2020,Hong Kong,Hong Kong,China,2020-01-25
+EPI_ISL_406036,BetaCoV/USA/CA2/2020,Orange County,California,USA,2020-01-22
+EPI_ISL_408999,BetaCoV/Hong Kong/VM20001464/2020,Hong Kong,Hong Kong,China,2020-01-25
+EPI_ISL_407894,BetaCoV/Australia/QLD01/2020,Gold Coast,Queensland,Australia,2020-01-28
+EPI_ISL_402132,BetaCoV/Wuhan/HBCDC-HB-01/2019,Wuhan,Hubei,China,2019-12-30
+EPI_ISL_409067,BetaCoV/USA-MA1/2020,,Massachusetts,USA,2020-01-29
+EPI_ISL_402126,BetaCoV/Kanagawa/1/2020,,Kanagawa,Japan,2020-01-14
+EPI_ISL_406595,BetaCoV/Shenzhen/SZTH-004/2020,Shenzhen,Guandong,China,2020-01-16
+EPI_ISL_408976,BetaCoV/Sydney/2/2020,Sydney,New South Wales,Australia,2020-01-22
+EPI_ISL_406973,BetaCoV/Singapore/1/2020,,,Singapore,2020-01-23
+EPI_ISL_408977,BetaCoV/Sydney/3/2020,Sydney,New South Wales,Australia,2020-01-25
+EPI_ISL_406594,BetaCoV/Shenzhen/SZTH-003/2020,Shenzhen,Guandong,China,2020-01-16
+EPI_ISL_407073,BetaCoV/England/02/2020,,,England,2020-01-29
+EPI_ISL_402123,BetaCoV/Wuhan/IPBCAMS-WH-01/2019,Wuhan,Hubei,China,2019-12-24
+EPI_ISL_402121,BetaCoV/Wuhan/IVDC-HB-05/2019,Wuhan,Hubei,China,2019-12-30
+EPI_ISL_407071,BetaCoV/England/01/2020,,,England,2020-01-29
+EPI_ISL_408430,BetaCoV/France/IDF0515/2020,Paris,Ile-de-France,France,2020-01-29
+EPI_ISL_407893,BetaCoV/Australia/NSW01/2020,Sydney,New South Wales,Australia,2020-01-24
+EPI_ISL_410486,BetaCoV/France/RA739/2020,Contamines,Rhone-Alpes,France,2020-02-08
+EPI_ISL_406596,BetaCoV/France/IDF0372/2020,Paris,Ile-de-France,France,2020-01-23
+EPI_ISL_408008,BetaCoV/USA/CA3/2020,,California,USA,2020-01-29
+EPI_ISL_406031,BetaCoV/Taiwan/2/2020,Kaohsiung,Taiwan,China,2020-01-23
+EPI_ISL_407313,BetaCoV/Hangzhou/HZCDC0001/2020,Hangzhou,Zhejiang,China,2020-01-19
+EPI_ISL_408975,BetaCoV/Hong Kong/VM20001061/2020,Hong Kong,Hong Kong,China,2020-01-22
+EPI_ISL_406970,BetaCoV/Hangzhou/HZ-1/2020,Hangzhou,Zhejiang,China,2020-01-20
+EPI_ISL_406959,BetaCoV/Italy/INMI1/2020,Rome,Lazio,Italy,2020-01-20
+EPI_ISL_406030,BetaCoV/Shenzhen/HKU-SZ-002/2020,Shenzhen,Guandong,China,2020-01-10
+EPI_ISL_408009,BetaCoV/USA/CA4/2020,,California,USA,2020-01-29
+EPI_ISL_406597,BetaCoV/France/IDF0373/2020,Paris,Ile-de-France,France,2020-01-23
+EPI_ISL_408431,BetaCov/France/IDF0626/2020,Paris,Ile-de-France,France,2020-01-29
+EPI_ISL_402120,BetaCoV/Wuhan/IVDC-HB-04/2020,Wuhan,Hubei,China,2020-01-01
+EPI_ISL_408010,BetaCoV/USA/CA5/2020,,California,USA,2020-01-29
+EPI_ISL_406798,BetaCov/Wuhan/WH01/2019,Wuhan,Hubei,China,2019-12-26
+EPI_ISL_408978,BetaCoV/Wuhan/WH05/2020,Wuhan,Hubei,China,2020-02-07
+EPI_ISL_406799,BetaCov/Wuhan/WH02/2019,Wuhan,Hubei,China,2019-12-31
+EPI_ISL_403962,BetaCoV/Nonthaburi/61/2020,,Nonthaburi,Thailand,2020-01-08
+EPI_ISL_404228,BetaCoV/Zhejiang/WZ-02/2020,Whenzhou,Zhejiang,China,2020-01-17
+EPI_ISL_407084,BetaCoV/Japan/AI/I-004/2020,,Aichi,Japan,2020-01-25
+EPI_ISL_410301,BetaCoV/Nepal/61/2020,,Kathmandu,Nepal,2020-01-13
+EPI_ISL_408994,BetaCoV/Hong Kong/VB20017970/2020,Hong Kong,Hong Kong,China,2020-01-21
+EPI_ISL_408995,BetaCoV/Hong Kong/VM20001218/2020,Hong Kong,Hong Kong,China,2020-01-24
+EPI_ISL_410314,BetaCoV/Philippines/026N/2020,,,Philippines,2020-02-06
+EPI_ISL_403963,BetaCoV/Nonthaburi/74/2020,,Nonthaburi,Thailand,2020-01-13
+EPI_ISL_402128,BetaCoV/Wuhan/WIV05/2019,Wuhan,Hubei,China,2019-12-30
+EPI_ISL_410302,BetaCoV/Philippines/026/2020,,,Philippines,2020-01-26
+EPI_ISL_408997,BetaCoV/Hong Kong/VB20019923/2020,Hong Kong,Hong Kong,China,2020-01-24
+EPI_ISL_408996,BetaCoV/Hong Kong/VB20019871/2020,Hong Kong,Hong Kong,China,2020-01-24
+EPI_ISL_402129,BetaCoV/Wuhan/WIV06/2019,Wuhan,Hubei,China,2019-12-30
+EPI_ISL_407079,BetaCoV/Finland/1/2020,,Lapland,Finland ,2020-01-29
+EPI_ISL_407988,BetaCoV/Singapore/3/2020,,,Singapore,2020-02-01
+EPI_ISL_409027,BetaCoV/Hong Kong/VM20002345/2020,Hong Kong,Hong Kong,China,2020-02-03
+EPI_ISL_408488,BetaCoV/Jiangsu/IVDC-JS-001/2020,Huaian,Jiangsu,China,2020-01-19
+EPI_ISL_408489,BetaCoV/Taiwan/NTU01/2020,Taipei,Taiwan,China,2020-01-31
+EPI_ISL_407976,BetaCoV/Belgium/GHB-03021/2020,Leuven,Flemish,Belgium,2020-02-03
+EPI_ISL_409026,BetaCoV/Hong Kong/VM20002343/2020,Hong Kong,Hong Kong,China,2020-02-03
+EPI_ISL_409024,BetaCoV/Hong Kong/VB20026565/2020,Hong Kong,Hong Kong,China,2020-01-31
+EPI_ISL_405839,BetaCoV/Shenzhen/HKU-SZ-005/2020,Shenzhen,Guandong,China,2020-01-11
+EPI_ISL_408514,BetaCoV/Wuhan/IVDC-HB-envF13-20/2020,Wuhan,Hubei,China,2020-01-01
+EPI_ISL_408515,BetaCoV/Wuhan/IVDC-HB-envF13-21/2020,Wuhan,Hubei,China,2020-01-01
+EPI_ISL_406538,BetaCoV/Guangdong/20SF201/2020,,Guangdong,China,2020-01-23
+EPI_ISL_409025,BetaCoV/Hong Kong/VM20002302/2020,Hong Kong,Hong Kong,China,2020-02-01
+EPI_ISL_408667,BetaCoV/Japan/TY-WK-521/2020,Tokyo,Tokyo,Japan,2020-01-31
+EPI_ISL_403929,BetaCoV/Wuhan/IPBCAMS-WH-04/2019,Wuhan,Hubei,China,2019-12-30
+EPI_ISL_408511,BetaCoV/Wuhan/IVDC-HB-envF13/2020,Wuhan,Hubei,China,2020-01-01
+EPI_ISL_407193,BetaCoV/Korea/KCDC03/2020,,Gyeonggi-do,Korea,2020-01-25
+EPI_ISL_406716,BetaCoV/China/WHU01/2020,Wuhan,Hubei,China,2020-01-02
+EPI_ISL_406717,BetaCoV/China/WHU02/2020,Wuhan,Hubei,China,2020-01-02
+EPI_ISL_409020,BetaCoV/Hong Kong/VM20001988/2020,Hong Kong,Hong Kong,China,2020-01-30
+EPI_ISL_403928,BetaCoV/Wuhan/IPBCAMS-WH-05/2020,Wuhan,Hubei,China,2020-01-01
+EPI_ISL_406844,BetaCoV/Australia/VIC01/2020,Clayton,Victoria,Australia,2020-01-25
+EPI_ISL_408666,BetaCoV/Japan/TY-WK-501/2020,Tokyo,Tokyo,Japan,2020-01-31
+EPI_ISL_408670,BetaCoV/USA/WI1/2020,,Wisconsin, USA,2020-01-31
+EPI_ISL_409022,BetaCoV/Hong Kong/VB20024950/2020,Hong Kong,Hong Kong,China,2020-01-29
+EPI_ISL_408512,BetaCoV/Wuhan/IVDC-HB-envF54/2020,Wuhan,Hubei,China,2020-01-01
+EPI_ISL_404895,BetaCoV/USA/WA1/2020,Snohomish County,Washington, USA,2020-01-19
+EPI_ISL_409023,BetaCoV/Hong Kong/VM20002162/2020,Hong Kong,Hong Kong,China,2020-01-31
+EPI_ISL_408665,BetaCoV/Japan/TY-WK-012/2020,Tokyo,Tokyo,Japan,2020-01-29
+EPI_ISL_408668,BetaCoV/Vietnam/VR03-38142/2020,,Thanh Hoa,Vietnam,2020-01-24
+MN938387,2019-nCoV_HKU-SZ-001_2020,Shenzhen,Guandong,China,2020-01-20
+MN938385,2019-nCoV_HKU-SZ-001_2020,Shenzhen,Guandong,China,2020-01-20
+MN938388,2019-nCoV_HKU-SZ-002b_2020,Shenzhen,Guandong,China,2020-01-20
+MN938389,2019-nCoV_HKU-SZ-004_2020,Shenzhen,Guandong,China,2020-01-20
+MN938386,2019-nCoV_HKU-SZ-004_2020,Shenzhen,Guandong,China,2020-01-20
+MN938390,2019-nCoV_HKU-SZ-005_2020,Shenzhen,Guandong,China,2020-01-20
+MN975266,2019-nCoV_HKU-SZ-007a_2020,Shenzhen,Guandong,China,2020-01-20
+MN975263,2019-nCoV_HKU-SZ-007a_2020,Shenzhen,Guandong,China,2020-01-20
+MN975264,2019-nCoV_HKU-SZ-007b_2020,Shenzhen,Guandong,China,2020-01-20
+MN975267,2019-nCoV_HKU-SZ-007b_2020,Shenzhen,Guandong,China,2020-01-20
+MN975268,2019-nCoV_HKU-SZ-007c_2020,Shenzhen,Guandong,China,2020-01-20
+MN975265,2019-nCoV_HKU-SZ-007c_2020,Shenzhen,Guandong,China,2020-01-20
+MN970003,SI200040-SP,,,Thailand,2020-01-08
+MN970004,SI200121-SP,,,Thailand,2020-01-13
+MT039890,SNU01,,,South Korea,2020-01-20
+LC522350,2019-nCoV_PH_nCOV_20_026,,,Philippines,2020-01-26
+NMDC60013002-05,BetaCoV/Wuhan/WH19002/2019,Wuhan,Hubei,China,2019-12-30
+NMDC60013002-06,BetaCoV/Wuhan/WH19008/2019,Wuhan,Hubei,China,2019-12-30
+NMDC60013002-07,BetaCoV/Wuhan/YS8011/2020,Wuhan,Hubei,China,2020-01-07
+NMDC60013002-08,BetaCoV/Wuhan/WH19001/2019,Wuhan,Hubei,China,2019-12-30
+NMDC60013002-09,BetaCoV/Wuhan/WH19004/2020,Wuhan,Hubei,China,2020-01-01
+NMDC60013002-10,BetaCoV/Wuhan/WH19005/2019,Wuhan,Hubei,China,2019-12-30
+NMDC60013002-02,BetaCoV/Wuhan/WH-02/2019,Wuhan,Hubei,China,2019-12-31
+MT050417,SARS-CoV-2/QLD05/human/2020_FSS918/AUS,,,Australia,2020-02-20
+MT050416,SARS-CoV-2/QLD03/human/2020_FSS917/AUS,,,Australia,2020-02-20
+MT049951,SARS-CoV-2/Yunnan-01/human/2020/CHN,,Yunnan,China,2020-01-17
+MT042778,SARS-CoV-2/Tongji-06/human/2020/Wuhan,Wuhan,Hubei,China,2020-01-20
+MT042777,SARS-CoV-2/Tongji-05/human/2020/Wuhan,Wuhan,Hubei,China,2020-01-20
+MT042776,SARS-CoV-2/Tongji-04/human/2020/Wuhan,Wuhan,Hubei,China,2020-01-20
+MT042775,SARS-CoV-2/Tongji-03/human/2020/Wuhan,Wuhan,Hubei,China,2020-01-20
+MT042774,SARS-CoV-2/Tongji-02/human/2020/Wuhan,Wuhan,Hubei,China,2020-01-20
+MT042773,SARS-CoV-2/Tongji-01/human/2020/CHN,Wuhan,Hubei,China,2020-01-20
+MT019529,BetaCoV/Wuhan/IPBCAMS-WH-01/2019,Wuhan,Hubei,China,2019-12-23
+MT019530,BetaCoV/Wuhan/IPBCAMS-WH-02/2019,Wuhan,Hubei,China,2019-12-30
+MT019531,BetaCoV/Wuhan/IPBCAMS-WH-03/2019,Wuhan,Hubei,China,2019-12-30
+MT019532,BetaCoV/Wuhan/IPBCAMS-WH-04/2019,Wuhan,Hubei,China,2019-12-30
+MT019533,BetaCoV/Wuhan/IPBCAMS-WH-05/2020,Wuhan,Hubei,China,2020-01-01
