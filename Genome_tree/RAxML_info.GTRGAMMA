@@ -6,10 +6,103 @@ IMPORTANT WARNING: Sequences EPI_ISL_407214 and EPI_ISL_407215 are exactly ident
 IMPORTANT WARNING: Sequences EPI_ISL_407214 and EPI_ISL_404895 are exactly identical
 
 
-IMPORTANT WARNING: Sequences EPI_ISL_402124 and EPI_ISL_402119 are exactly identical
+IMPORTANT WARNING: Sequences EPI_ISL_406970 and EPI_ISL_403963 are exactly identical
 
 
-IMPORTANT WARNING: Sequences EPI_ISL_402124 and EPI_ISL_408479 are exactly identical
+IMPORTANT WARNING: Sequences EPI_ISL_406970 and EPI_ISL_402124 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EPI_ISL_406970 and EPI_ISL_402119 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EPI_ISL_406970 and EPI_ISL_407313 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EPI_ISL_406970 and EPI_ISL_403962 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EPI_ISL_406970 and EPI_ISL_406538 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EPI_ISL_406970 and EPI_ISL_408514 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EPI_ISL_406970 and EPI_ISL_408488 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EPI_ISL_406970 and NMDC60013002-07 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EPI_ISL_406970 and EPI_ISL_402125 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EPI_ISL_406970 and EPI_ISL_402129 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EPI_ISL_406970 and EPI_ISL_408479 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EPI_ISL_406970 and EPI_ISL_403929 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EPI_ISL_406970 and EPI_ISL_406717 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EPI_ISL_406970 and NMDC60013002-08 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EPI_ISL_406970 and EPI_ISL_404228 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EPI_ISL_406970 and EPI_ISL_406800 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EPI_ISL_406970 and EPI_ISL_406716 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EPI_ISL_406970 and MT019532 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EPI_ISL_406970 and EPI_ISL_403931 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EPI_ISL_406970 and MT019530 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EPI_ISL_402120 and NMDC60013002-09 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EPI_ISL_407976 and EPI_ISL_407893 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EPI_ISL_407976 and EPI_ISL_406801 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EPI_ISL_402121 and NMDC60013002-10 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EPI_ISL_402123 and MT019529 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EPI_ISL_406030 and EPI_ISL_406593 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EPI_ISL_406030 and EPI_ISL_403932 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EPI_ISL_406030 and EPI_ISL_403935 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EPI_ISL_406030 and EPI_ISL_403933 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EPI_ISL_407988 and EPI_ISL_408481 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EPI_ISL_408667 and EPI_ISL_408666 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EPI_ISL_403936 and EPI_ISL_406531 are exactly identical
 
 
 IMPORTANT WARNING: Sequences EPI_ISL_403936 and EPI_ISL_403937 are exactly identical
@@ -18,20 +111,23 @@ IMPORTANT WARNING: Sequences EPI_ISL_403936 and EPI_ISL_403937 are exactly ident
 IMPORTANT WARNING: Sequences EPI_ISL_408009 and EPI_ISL_408008 are exactly identical
 
 
-IMPORTANT WARNING: Sequences EPI_ISL_403932 and EPI_ISL_403935 are exactly identical
+IMPORTANT WARNING: Sequences MT019531 and EPI_ISL_403930 are exactly identical
 
 
-IMPORTANT WARNING: Sequences EPI_ISL_403932 and EPI_ISL_403933 are exactly identical
+IMPORTANT WARNING: Sequences MT019533 and EPI_ISL_403928 are exactly identical
 
 
-IMPORTANT WARNING: Sequences EPI_ISL_406717 and EPI_ISL_406716 are exactly identical
+IMPORTANT WARNING: Sequences EPI_ISL_406536 and EPI_ISL_406535 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EPI_ISL_406597 and EPI_ISL_406596 are exactly identical
 
 IMPORTANT WARNING
-Found 9 sequences that are exactly identical to other sequences in the alignment.
+Found 41 sequences that are exactly identical to other sequences in the alignment.
 Normally they should be excluded from the analysis.
 
 Just in case you might need it, an alignment file with 
-sequence duplicates removed is printed to file aligned.fasta.reduced
+sequence duplicates removed is printed to file aligned_cds.fasta.reduced
 
 
 Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
@@ -53,9 +149,9 @@ Akifumi S. Tanabe (NRIFS)
 Charlie Taylor    (UF)
 
 
-Alignment has 232 distinct alignment patterns
+Alignment has 150 distinct alignment patterns
 
-Proportion of gaps and completely undetermined characters in this alignment: 0.18%
+Proportion of gaps and completely undetermined characters in this alignment: 0.04%
 
 RAxML rapid hill-climbing mode
 
@@ -70,7 +166,7 @@ GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
 GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
 
 Partition: 0
-Alignment Patterns: 232
+Alignment Patterns: 150
 Name: No Name Provided
 DataType: DNA
 Substitution Matrix: GTR
@@ -80,27 +176,27 @@ Substitution Matrix: GTR
 
 RAxML was called as follows:
 
-C:\Users\Chengyang Ji\AppData\Local\Programs\standard-RAxML-8.2.12\WindowsExecutables_v8.2.10\raxmlHPC.exe -p 12345 -s aligned.fasta -n GTRGAMMA -m GTRGAMMA -o EPI_ISL_402131 
+C:\Users\Chengyang Ji\AppData\Local\Programs\standard-RAxML-8.2.12\WindowsExecutables_v8.2.10\raxmlHPC.exe -p 12345 -s aligned_cds.fasta -n GTRGAMMA -m GTRGAMMA -o EPI_ISL_402131 
 
 
 Partition: 0 with name: No Name Provided
-Base frequencies: 0.299 0.184 0.196 0.321 
+Base frequencies: 0.299 0.183 0.196 0.322 
 
-Inference[0]: Time 17.294914 GAMMA-based likelihood -47106.907625, best rearrangement setting 15
-alpha[0]: 0.846567 rates[0] ac ag at cg ct gt: 0.994418 6.539762 1.610545 0.789806 17.633274 1.000000 
+Inference[0]: Time 15.105463 GAMMA-based likelihood -45840.292651, best rearrangement setting 15
+alpha[0]: 0.472676 rates[0] ac ag at cg ct gt: 0.966877 6.715221 1.634335 0.632819 18.539725 1.000000 
 
 
 Conducting final model optimizations on all 1 trees under GAMMA-based models ....
 
-Inference[0] final GAMMA-based Likelihood: -47106.907380 tree written to file C:\Users\Chengyang Ji\Projects\SARS-CoV-2\Genome_tree\RAxML_result.GTRGAMMA
+Inference[0] final GAMMA-based Likelihood: -45840.289674 tree written to file C:\Users\Chengyang Ji\Projects\SARS-CoV-2\Genome_tree\RAxML_result.GTRGAMMA
 
 
-Starting final GAMMA-based thorough Optimization on tree 0 likelihood -47106.907380 .... 
+Starting final GAMMA-based thorough Optimization on tree 0 likelihood -45840.289674 .... 
 
-Final GAMMA-based Score of best tree -47106.907360
+Final GAMMA-based Score of best tree -45840.289666
 
 Program execution info written to C:\Users\Chengyang Ji\Projects\SARS-CoV-2\Genome_tree\RAxML_info.GTRGAMMA
 Best-scoring ML tree written to: C:\Users\Chengyang Ji\Projects\SARS-CoV-2\Genome_tree\RAxML_bestTree.GTRGAMMA
 
-Overall execution time: 22.520702 secs or 0.006256 hours or 0.000261 days
+Overall execution time: 19.483620 secs or 0.005412 hours or 0.000226 days
 
