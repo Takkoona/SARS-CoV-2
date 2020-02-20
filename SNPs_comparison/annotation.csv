@@ -1,0 +1,64 @@
+Accession ID,Start,End,Product_id,Product_name
+MN908947.3,266,13468,1,orf1ab polyprotein
+MN908947.3,13468,21555,1,orf1ab polyprotein
+MN908947.3,21563,25384,2,surface glycoprotein
+MN908947.3,25393,26220,3,ORF3a protein
+MN908947.3,26245,26472,4,envelope protein
+MN908947.3,26523,27191,5,membrane glycoprotein
+MN908947.3,27202,27387,6,ORF6 protein
+MN908947.3,27394,27759,7,ORF7a protein
+MN908947.3,27894,28259,8,ORF8 protein
+MN908947.3,28274,29533,9,nucleocapsid phosphoprotein
+MN908947.3,29558,29674,10,ORF10 protein
+MN996532.1,251,13450,1,orf1ab polyprotein
+MN996532.1,13450,21537,1,orf1ab polyprotein
+MN996532.1,21545,25354,2,spike glycoprotein
+MN996532.1,25363,26190,3,nonstructural protein NS3
+MN996532.1,26215,26442,4,envelope protein
+MN996532.1,26493,27158,5,membrane protein
+MN996532.1,27169,27354,6,nonstructural protein NS6
+MN996532.1,27360,27725,7,nonstructural protein NS7a
+MN996532.1,27722,27853,8,nonstructural protein NS7b
+MN996532.1,27860,28225,9,nonstructural protein NS8
+MN996532.1,28240,29499,10,nucleocapsid protein
+KY417150.1,265,13398,1,non-structural polyprotein 1ab
+KY417150.1,13398,21485,1,non-structural polyprotein 1ab
+KY417150.1,265,13413,2,non-structural polyprotein 1a
+KY417150.1,21493,25260,3,spike protein
+KY417150.1,25269,26093,4,ORF3a
+KY417150.1,25690,26034,5,ORF3b
+KY417150.1,26118,26348,6,small envelope protein
+KY417150.1,26399,27064,7,membrane glycoprotein
+KY417150.1,27075,27266,8,ORF6
+KY417150.1,27280,27789,9,ORFx
+KY417150.1,27796,28164,10,ORF7a
+KY417150.1,28161,28295,11,ORF7b
+KY417150.1,28302,28667,12,ORF8
+KY417150.1,28682,29950,13,nucleocapsid protein
+KT444582.1,265,13398,1,non-structural polyprotein 1ab
+KT444582.1,13398,21485,1,non-structural polyprotein 1ab
+KT444582.1,265,13413,2,non-structural polyprotein 1a
+KT444582.1,21492,25259,3,spike protein
+KT444582.1,25268,26092,4,putative protein 3a
+KT444582.1,25689,26033,5,putative protein 3b
+KT444582.1,26117,26347,6,envelope protein
+KT444582.1,26398,27063,7,membrane protein
+KT444582.1,27074,27265,8,hypothetical protein
+KT444582.1,27279,27572,9,hypothetical protein
+KT444582.1,27797,28165,10,hypothetical protein
+KT444582.1,28162,28296,11,hypothetical protein
+KT444582.1,28303,28668,12,hypothetical protein
+KT444582.1,28683,29951,13,nucleocapsid protein
+KF569996.1,272,13420,1,protein 1a
+KF569996.1,13606,21492,2,protein 1b
+KF569996.1,21499,25278,3,spike protein
+KF569996.1,25287,26111,4,protein 3
+KF569996.1,26136,26366,5,envelope protein
+KF569996.1,26417,27082,6,membrane protein
+KF569996.1,27093,27284,7,protein 7
+KF569996.1,27292,27660,8,protein 8
+KF569996.1,27657,27791,9,protein 9
+KF569996.1,27798,28163,10,protein 10b
+KF569996.1,28178,29446,11,nucleocapsid protein
+KF569996.1,28188,28484,12,protein 13
+KF569996.1,28641,28853,13,protein 14

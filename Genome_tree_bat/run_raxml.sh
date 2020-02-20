@@ -1,7 +1,5 @@
 #!/bin/bash
 
-cd ./Genome_tree
-
 input="aligned_cds.fasta"
 outgroup=$(cat outgroup.txt)
 

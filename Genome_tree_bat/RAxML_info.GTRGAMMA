@@ -132,8 +132,8 @@ IMPORTANT WARNING
 Found 43 sequences that are exactly identical to other sequences in the alignment.
 Normally they should be excluded from the analysis.
 
-An alignment file with sequence duplicates removed has already
-been printed to file aligned_cds.fasta.reduced
+Just in case you might need it, an alignment file with 
+sequence duplicates removed is printed to file aligned_cds.fasta.reduced
 
 
 Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
@@ -155,7 +155,7 @@ Akifumi S. Tanabe (NRIFS)
 Charlie Taylor    (UF)
 
 
-Alignment has 124 distinct alignment patterns
+Alignment has 155 distinct alignment patterns
 
 Proportion of gaps and completely undetermined characters in this alignment: 0.03%
 
@@ -172,7 +172,7 @@ GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
 GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
 
 Partition: 0
-Alignment Patterns: 124
+Alignment Patterns: 155
 Name: No Name Provided
 DataType: DNA
 Substitution Matrix: GTR
@@ -182,27 +182,27 @@ Substitution Matrix: GTR
 
 RAxML was called as follows:
 
-C:\Users\Chengyang Ji\AppData\Local\Programs\standard-RAxML-8.2.12\WindowsExecutables_v8.2.10\raxmlHPC.exe -p 1234 -s aligned_cds.fasta -n GTRGAMMA -m GTRGAMMA -o EPI_ISL_402125 
+C:\Users\Chengyang Ji\AppData\Local\Programs\standard-RAxML-8.2.12\WindowsExecutables_v8.2.10\raxmlHPC.exe -p 12345 -s aligned_cds.fasta -n GTRGAMMA -m GTRGAMMA -o EPI_ISL_402131 
 
 
 Partition: 0 with name: No Name Provided
 Base frequencies: 0.299 0.183 0.196 0.322 
 
-Inference[0]: Time 9.261717 GAMMA-based likelihood -40616.266955, best rearrangement setting 10
-alpha[0]: 0.020000 rates[0] ac ag at cg ct gt: 0.344601 1.577238 0.352158 0.352903 3.948052 1.000000 
+Inference[0]: Time 14.614681 GAMMA-based likelihood -45899.240470, best rearrangement setting 15
+alpha[0]: 0.380175 rates[0] ac ag at cg ct gt: 0.888286 6.325699 1.527979 0.592225 17.562171 1.000000 
 
 
 Conducting final model optimizations on all 1 trees under GAMMA-based models ....
 
-Inference[0] final GAMMA-based Likelihood: -40616.070075 tree written to file C:\Users\Chengyang Ji\Projects\SARS-CoV-2\Genome_tree\RAxML_result.GTRGAMMA
+Inference[0] final GAMMA-based Likelihood: -45899.234004 tree written to file C:\Users\Chengyang Ji\Projects\SARS-CoV-2\Genome_tree_bat\RAxML_result.GTRGAMMA
 
 
-Starting final GAMMA-based thorough Optimization on tree 0 likelihood -40616.070075 .... 
+Starting final GAMMA-based thorough Optimization on tree 0 likelihood -45899.234004 .... 
 
-Final GAMMA-based Score of best tree -40616.069828
+Final GAMMA-based Score of best tree -45899.232042
 
-Program execution info written to C:\Users\Chengyang Ji\Projects\SARS-CoV-2\Genome_tree\RAxML_info.GTRGAMMA
-Best-scoring ML tree written to: C:\Users\Chengyang Ji\Projects\SARS-CoV-2\Genome_tree\RAxML_bestTree.GTRGAMMA
+Program execution info written to C:\Users\Chengyang Ji\Projects\SARS-CoV-2\Genome_tree_bat\RAxML_info.GTRGAMMA
+Best-scoring ML tree written to: C:\Users\Chengyang Ji\Projects\SARS-CoV-2\Genome_tree_bat\RAxML_bestTree.GTRGAMMA
 
-Overall execution time: 114.370268 secs or 0.031770 hours or 0.001324 days
+Overall execution time: 19.801327 secs or 0.005500 hours or 0.000229 days
 
