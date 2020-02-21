@@ -1,6 +1,6 @@
 #!/bin/bash
 
-input="genomes.fasta"
+input="all.fasta"
 output="aligned.fasta"
 
 mafft $input > $output
