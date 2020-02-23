@@ -14,7 +14,6 @@ EPI_ISL_402124,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t
 EPI_ISL_409067,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t
 EPI_ISL_402119,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t
 EPI_ISL_408489,g,a,c,a,c,a,t,g,g,t,t,t,a,g,t,c,a,g,c,g,t,g,g,t,g,g,t
-NMDC60013002-06,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t
 EPI_ISL_408431,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t
 EPI_ISL_408668,g,a,c,a,c,a,t,g,g,t,t,t,a,g,t,c,a,g,c,g,t,g,g,t,g,g,t
 EPI_ISL_408511,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t
@@ -41,9 +40,9 @@ EPI_ISL_406973,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t
 EPI_ISL_402127,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t
 EPI_ISL_408669,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t
 EPI_ISL_408488,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t
-NMDC60013002-07,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t
 EPI_ISL_408430,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t
 EPI_ISL_406030,g,a,c,a,c,a,t,g,g,t,t,t,a,g,t,c,a,g,c,g,t,g,g,t,g,g,t
+EPI_ISL_410542,g,a,c,t,c,a,t,g,g,t,t,t,a,g,t,c,a,a,c,g,t,g,g,t,g,g,t
 EPI_ISL_406798,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t
 EPI_ISL_405839,g,a,c,a,c,a,t,g,g,t,t,t,a,g,t,c,a,g,c,g,t,g,g,t,g,g,t
 EPI_ISL_408670,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t
@@ -56,11 +55,9 @@ EPI_ISL_402129,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t
 EPI_ISL_408667,g,a,c,a,c,a,t,g,g,t,t,t,a,g,t,c,a,g,c,g,t,g,g,t,g,g,t
 EPI_ISL_406593,g,a,c,a,c,a,t,g,g,t,t,t,a,g,t,c,a,g,c,g,t,g,g,t,g,g,t
 EPI_ISL_408486,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t
-NMDC60013002-09,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t
 EPI_ISL_403936,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t
 EPI_ISL_402130,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t
 EPI_ISL_410715,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t
-NMDC60013002-10,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t
 EPI_ISL_408009,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t
 EPI_ISL_410536,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t
 EPI_ISL_403934,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t
@@ -72,7 +69,6 @@ EPI_ISL_408484,g,a,c,a,c,a,t,g,g,t,t,t,a,g,t,c,a,g,c,g,t,g,g,t,g,g,t
 EPI_ISL_408010,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t
 EPI_ISL_408479,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t
 EPI_ISL_408480,g,a,c,a,c,a,t,g,g,t,t,t,a,g,t,c,a,g,c,g,t,g,g,t,g,g,t
-EPI_ISL_406595,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t
 EPI_ISL_403929,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t
 EPI_ISL_408977,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t
 EPI_ISL_406862,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t
@@ -88,18 +84,14 @@ EPI_ISL_406801,g,a,c,a,c,a,t,g,g,t,t,t,a,g,t,c,a,g,c,g,t,g,g,t,g,g,t
 EPI_ISL_406844,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t
 EPI_ISL_406536,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t
 EPI_ISL_406597,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t
-EPI_ISL_408482,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t
 EPI_ISL_403935,g,a,c,a,c,a,t,g,g,t,t,t,a,g,t,c,a,g,c,g,t,g,g,t,g,g,t
 EPI_ISL_410716,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t
 EPI_ISL_408008,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t
 EPI_ISL_410537,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t
 EPI_ISL_406531,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t
 EPI_ISL_407987,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t
-EPI_ISL_408485,g,a,c,a,c,a,t,g,g,t,t,t,a,g,t,c,a,g,c,g,t,g,g,t,g,g,t
 EPI_ISL_408478,g,a,c,a,c,a,t,g,g,t,t,t,a,g,t,c,a,g,c,g,t,g,g,t,g,g,t
 EPI_ISL_404895,g,a,c,a,c,a,t,g,g,t,t,t,a,g,t,c,a,g,c,g,t,g,g,t,g,g,t
-EPI_ISL_406592,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t
-NMDC60013002-08,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t
 EPI_ISL_408666,g,a,c,a,c,a,t,g,g,t,t,t,a,g,t,c,a,g,c,g,t,g,g,t,g,g,t
 EPI_ISL_402128,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t
 EPI_ISL_410535,g,a,c,a,c,a,t,g,g,t,t,t,a,g,t,c,a,g,c,g,t,g,g,t,g,g,t
@@ -117,7 +109,6 @@ EPI_ISL_406800,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t
 EPI_ISL_406716,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t
 EPI_ISL_403933,g,a,c,a,c,a,t,g,g,t,t,t,a,g,t,c,a,g,c,g,t,g,g,t,g,g,t
 EPI_ISL_406596,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t
-MT039890,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t
 EPI_ISL_403928,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t
 EPI_ISL_408976,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t
 EPI_ISL_408481,g,a,c,a,c,a,t,g,g,t,t,t,a,g,c,c,a,g,c,g,t,g,g,t,g,g,t

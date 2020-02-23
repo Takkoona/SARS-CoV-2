@@ -1,3 +1,4 @@
+IMPORTANT WARNING: Alignment column 11629 contains only undetermined values which will be treated as missing data
 
 
 IMPORTANT WARNING: Sequences EPI_ISL_407214 and EPI_ISL_407215 are exactly identical
@@ -30,9 +31,6 @@ IMPORTANT WARNING: Sequences EPI_ISL_406970 and EPI_ISL_408514 are exactly ident
 IMPORTANT WARNING: Sequences EPI_ISL_406970 and EPI_ISL_408488 are exactly identical
 
 
-IMPORTANT WARNING: Sequences EPI_ISL_406970 and NMDC60013002-07 are exactly identical
-
-
 IMPORTANT WARNING: Sequences EPI_ISL_406970 and EPI_ISL_402125 are exactly identical
 
 
@@ -51,9 +49,6 @@ IMPORTANT WARNING: Sequences EPI_ISL_406970 and EPI_ISL_410532 are exactly ident
 IMPORTANT WARNING: Sequences EPI_ISL_406970 and EPI_ISL_406717 are exactly identical
 
 
-IMPORTANT WARNING: Sequences EPI_ISL_406970 and NMDC60013002-08 are exactly identical
-
-
 IMPORTANT WARNING: Sequences EPI_ISL_406970 and EPI_ISL_404228 are exactly identical
 
 
@@ -69,9 +64,6 @@ IMPORTANT WARNING: Sequences EPI_ISL_406970 and EPI_ISL_406716 are exactly ident
 IMPORTANT WARNING: Sequences EPI_ISL_406970 and EPI_ISL_403931 are exactly identical
 
 
-IMPORTANT WARNING: Sequences EPI_ISL_402120 and NMDC60013002-09 are exactly identical
-
-
 IMPORTANT WARNING: Sequences EPI_ISL_410718 and EPI_ISL_410535 are exactly identical
 
 
@@ -79,9 +71,6 @@ IMPORTANT WARNING: Sequences EPI_ISL_407976 and EPI_ISL_407893 are exactly ident
 
 
 IMPORTANT WARNING: Sequences EPI_ISL_407976 and EPI_ISL_406801 are exactly identical
-
-
-IMPORTANT WARNING: Sequences EPI_ISL_402121 and NMDC60013002-10 are exactly identical
 
 
 IMPORTANT WARNING: Sequences EPI_ISL_410720 and EPI_ISL_406597 are exactly identical
@@ -129,14 +118,22 @@ IMPORTANT WARNING: Sequences EPI_ISL_406536 and EPI_ISL_406535 are exactly ident
 IMPORTANT WARNING: Sequences EPI_ISL_410537 and EPI_ISL_407987 are exactly identical
 
 IMPORTANT WARNING
-Found 43 sequences that are exactly identical to other sequences in the alignment.
+Found 39 sequences that are exactly identical to other sequences in the alignment.
 Normally they should be excluded from the analysis.
 
+
+IMPORTANT WARNING
+Found 1 column that contains only undetermined values which will be treated as missing data.
+Normally these columns should be excluded from the analysis.
+
 Just in case you might need it, an alignment file with 
-sequence duplicates removed is printed to file aligned_cds.fasta.reduced
+sequence duplicates and undetermined columns removed is printed to file aligned_cds.fasta.reduced
 
 
 Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+Alignment has 1 completely undetermined sites that will be automatically removed from the input data
 
 
 
@@ -155,9 +152,9 @@ Akifumi S. Tanabe (NRIFS)
 Charlie Taylor    (UF)
 
 
-Alignment has 155 distinct alignment patterns
+Alignment has 486 distinct alignment patterns
 
-Proportion of gaps and completely undetermined characters in this alignment: 0.03%
+Proportion of gaps and completely undetermined characters in this alignment: 0.15%
 
 RAxML rapid hill-climbing mode
 
@@ -172,7 +169,7 @@ GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
 GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
 
 Partition: 0
-Alignment Patterns: 155
+Alignment Patterns: 486
 Name: No Name Provided
 DataType: DNA
 Substitution Matrix: GTR
@@ -182,27 +179,27 @@ Substitution Matrix: GTR
 
 RAxML was called as follows:
 
-C:\Users\Chengyang Ji\AppData\Local\Programs\standard-RAxML-8.2.12\WindowsExecutables_v8.2.10\raxmlHPC.exe -p 12345 -s aligned_cds.fasta -n GTRGAMMA -m GTRGAMMA -o EPI_ISL_402131 
+C:\Users\Chengyang Ji\AppData\Local\Programs\standard-RAxML-8.2.12\WindowsExecutables_v8.2.10\raxmlHPC.exe -p 1234 -s aligned_cds.fasta -n GTRGAMMA -m GTRGAMMA -o EPI_ISL_402131 
 
 
 Partition: 0 with name: No Name Provided
-Base frequencies: 0.299 0.183 0.196 0.322 
+Base frequencies: 0.299 0.183 0.196 0.321 
 
-Inference[0]: Time 14.614681 GAMMA-based likelihood -45899.240470, best rearrangement setting 15
-alpha[0]: 0.380175 rates[0] ac ag at cg ct gt: 0.888286 6.325699 1.527979 0.592225 17.562171 1.000000 
+Inference[0]: Time 66.616419 GAMMA-based likelihood -71284.982056, best rearrangement setting 10
+alpha[0]: 0.283225 rates[0] ac ag at cg ct gt: 1.322086 5.417855 2.861116 0.601322 11.576008 1.000000 
 
 
 Conducting final model optimizations on all 1 trees under GAMMA-based models ....
 
-Inference[0] final GAMMA-based Likelihood: -45899.234004 tree written to file C:\Users\Chengyang Ji\Projects\SARS-CoV-2\Genome_tree_bat\RAxML_result.GTRGAMMA
+Inference[0] final GAMMA-based Likelihood: -71284.964234 tree written to file C:\Users\Chengyang Ji\Projects\SARS-CoV-2\Genome_tree_EX\RAxML_result.GTRGAMMA
 
 
-Starting final GAMMA-based thorough Optimization on tree 0 likelihood -45899.234004 .... 
+Starting final GAMMA-based thorough Optimization on tree 0 likelihood -71284.964234 .... 
 
-Final GAMMA-based Score of best tree -45899.232042
+Final GAMMA-based Score of best tree -71284.964221
 
-Program execution info written to C:\Users\Chengyang Ji\Projects\SARS-CoV-2\Genome_tree_bat\RAxML_info.GTRGAMMA
-Best-scoring ML tree written to: C:\Users\Chengyang Ji\Projects\SARS-CoV-2\Genome_tree_bat\RAxML_bestTree.GTRGAMMA
+Program execution info written to C:\Users\Chengyang Ji\Projects\SARS-CoV-2\Genome_tree_EX\RAxML_info.GTRGAMMA
+Best-scoring ML tree written to: C:\Users\Chengyang Ji\Projects\SARS-CoV-2\Genome_tree_EX\RAxML_bestTree.GTRGAMMA
 
-Overall execution time: 19.801327 secs or 0.005500 hours or 0.000229 days
+Overall execution time: 84.683712 secs or 0.023523 hours or 0.000980 days
 
