@@ -1,0 +1,28 @@
+header {
+    position: fixed;
+    width: 100%;
+    z-index: 9998;
+    top: 0;
+}
+
+a[class*="fa-bars"] {
+    color: white;
+    font-size: 24px;
+    outline: none;
+    border: none;
+}
+
+#contactUs {
+    z-index: 9998;
+    position: relative;
+}
+
+.section-content {
+    min-height: 95vh;
+}
+
+.wrapper {
+    display: flex;
+    align-items: stretch;
+    margin-top: 45px;
+}
