@@ -4,7 +4,7 @@ EPI_ISL_402120,Human,Wuhan,Hubei,China,2020-01-01
 EPI_ISL_402121,Human,Wuhan,Hubei,China,2019-12-30
 EPI_ISL_402123,Human,Wuhan,Hubei,China,2019-12-24
 EPI_ISL_402124,Human,Wuhan,Hubei,China,2019-12-30
-EPI_ISL_402125,Human,Wuhan,Hubei,China,2020-12-19
+EPI_ISL_402125,Human,Wuhan,Hubei,China,2019-12-24
 EPI_ISL_402126,Human,Japan,Japan,Japan,2020-01-14
 EPI_ISL_402127,Human,Wuhan,Hubei,China,2019-12-30
 EPI_ISL_402128,Human,Wuhan,Hubei,China,2019-12-30
@@ -156,35 +156,27 @@ EPI_ISL_410717,Human,Australia,Australia,Australia,2020-02-05
 EPI_ISL_410718,Human,Australia,Australia,Australia,2020-02-05
 EPI_ISL_410719,Human,Singapore,Singapore,Singapore,2020-02-02
 EPI_ISL_410720,Human,France,France,France,2020-01-23
-EPI_ISL_410721,Manis javanica,Guangdong,Guangdong,China,2020-02-16
-LC522350,Human,Philippines,Philippines,Philippines,2020-01-26
-MN938385,Human,Shenzhen,Guangdong,China,2020-01-20
-MN938386,Human,Shenzhen,Guangdong,China,2020-01-20
-MN938387,Human,Shenzhen,Guangdong,China,2020-01-20
-MN938388,Human,Shenzhen,Guangdong,China,2020-01-20
-MN938389,Human,Shenzhen,Guangdong,China,2020-01-20
-MN938390,Human,Shenzhen,Guangdong,China,2020-01-20
-MN970003,Human,Thailand,Thailand,Thailand,2020-01-08
-MN970004,Human,Thailand,Thailand,Thailand,2020-01-13
-MN975263,Human,Shenzhen,Guangdong,China,2020-01-20
-MN975264,Human,Shenzhen,Guangdong,China,2020-01-20
-MN975265,Human,Shenzhen,Guangdong,China,2020-01-20
-MN975266,Human,Shenzhen,Guangdong,China,2020-01-20
-MN975267,Human,Shenzhen,Guangdong,China,2020-01-20
-MN975268,Human,Shenzhen,Guangdong,China,2020-01-20
-MT039890,Human,South Korea,South Korea,South Korea,2020-01-20
-MT042773,Human,Wuhan,Hubei,China,2020-01-20
-MT042774,Human,Wuhan,Hubei,China,2020-01-20
-MT042775,Human,Wuhan,Hubei,China,2020-01-20
-MT042776,Human,Wuhan,Hubei,China,2020-01-20
-MT042777,Human,Wuhan,Hubei,China,2020-01-20
-MT042778,Human,Wuhan,Hubei,China,2020-01-20
-MT049951,Human,Yunnan,Yunnan,China,2020-01-17
-MT050416,Human,Australia,Australia,Australia,2020-02-20
-MT050417,Human,Australia,Australia,Australia,2020-02-20
-NMDC60013002-05,Human,Wuhan,Hubei,China,2019-12-30
-NMDC60013002-06,Human,Wuhan,Hubei,China,2019-12-30
-NMDC60013002-07,Human,Wuhan,Hubei,China,2020-01-07
-NMDC60013002-08,Human,Wuhan,Hubei,China,2019-12-30
-NMDC60013002-09,Human,Wuhan,Hubei,China,2020-01-01
-NMDC60013002-10,Human,Wuhan,Hubei,China,2019-12-30
+EPI_ISL_410721,Manis javanica,Panguolin,Guangdong,China,2020-02-16
+EPI_ISL_411060,Human,Fujian,Fujian,China,2020-01-21
+EPI_ISL_411066,Human,Fujian,Fujian,China,2020-01-22
+EPI_ISL_411218,Human,France,France,France,2020-02-02
+EPI_ISL_411219,Human,France,France,France,2020-01-28
+EPI_ISL_411220,Human,France,France,France,2020-01-28
+EPI_ISL_411902,Human,Cambodia,Cambodia,Cambodia,2020-01-27
+EPI_ISL_411915,Human,Taoyuan,Taiwan,China,2020-01-25
+EPI_ISL_411926,Human,Taipei,Taiwan,China,2020-01-24
+EPI_ISL_411927,Human,Taipei,Taiwan,China,2020-01-28
+EPI_ISL_411929,Human,South Korea,South Korea,South Korea,2020-01-20
+EPI_ISL_411950,Human,Jiangsu,Jiangsu,China,2020-01-23
+EPI_ISL_411951,Human,Sweden,Sweden,Sweden,2020-02-07
+EPI_ISL_411952,Human,Jiangsu,Jiangsu,China,2020-01-24
+EPI_ISL_411953,Human,Jiangsu,Jiangsu,China,2020-01-24
+EPI_ISL_411954,Human,USA,USA,USA,2020-02-06
+EPI_ISL_411955,Human,USA,USA,USA,2020-02-10
+EPI_ISL_411956,Human,USA,USA,USA,2020-02-11
+EPI_ISL_411957,Human,Wuhan,Hubei,China,2020-01-08
+EPI_ISL_412026,Human,Hefei,Anhui,China,2020-02-23
+EPI_ISL_412028,Human,Hong Kong,Hong Kong,China,2020-01-22
+EPI_ISL_412029,Human,Hong Kong,Hong Kong,China,2020-01-30
+EPI_ISL_412030,Human,Hong Kong,Hong Kong,China,2020-02-01
+EPI_ISL_412116,Human,England,England,England,2020-02-09

@@ -15,14 +15,12 @@ a[class*="fa-bars"] {
 #contactUs {
     z-index: 9998;
     position: relative;
-}
-
-.section-content {
-    min-height: 95vh;
+    min-width: 1200px;
+    margin: 0;
+    border: 0;
 }
 
 .wrapper {
-    display: flex;
     align-items: stretch;
     margin-top: 45px;
 }

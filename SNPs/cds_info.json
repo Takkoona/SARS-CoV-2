@@ -1,90 +1,90 @@
 [
     {
+        "product_id": 1,
+        "product_name": "orf1ab polyprotein",
+        "end": 13506,
+        "start": 303,
         "ref_end": 13468,
-        "end": 13475,
-        "ref_start": 265,
-        "product_id": 1,
-        "start": 272,
-        "product_name": "orf1ab polyprotein"
+        "ref_start": 265
     },
     {
+        "product_id": 1,
+        "product_name": "orf1ab polyprotein",
+        "end": 21593,
+        "start": 13505,
         "ref_end": 21555,
-        "end": 21562,
-        "ref_start": 13467,
-        "product_id": 1,
-        "start": 13474,
-        "product_name": "orf1ab polyprotein"
+        "ref_start": 13467
     },
     {
-        "ref_end": 25384,
-        "end": 25391,
-        "ref_start": 21562,
         "product_id": 2,
-        "start": 21569,
-        "product_name": "surface glycoprotein"
+        "product_name": "surface glycoprotein",
+        "end": 25422,
+        "start": 21600,
+        "ref_end": 25384,
+        "ref_start": 21562
     },
     {
-        "ref_end": 26220,
-        "end": 26227,
-        "ref_start": 25392,
         "product_id": 3,
-        "start": 25399,
-        "product_name": "ORF3a protein"
+        "product_name": "ORF3a protein",
+        "end": 26258,
+        "start": 25430,
+        "ref_end": 26220,
+        "ref_start": 25392
     },
     {
-        "ref_end": 26472,
-        "end": 26479,
-        "ref_start": 26244,
         "product_id": 4,
-        "start": 26251,
-        "product_name": "envelope protein"
+        "product_name": "envelope protein",
+        "end": 26510,
+        "start": 26282,
+        "ref_end": 26472,
+        "ref_start": 26244
     },
     {
-        "ref_end": 27191,
-        "end": 27198,
-        "ref_start": 26522,
         "product_id": 5,
-        "start": 26529,
-        "product_name": "membrane glycoprotein"
+        "product_name": "membrane glycoprotein",
+        "end": 27229,
+        "start": 26560,
+        "ref_end": 27191,
+        "ref_start": 26522
     },
     {
-        "ref_end": 27387,
-        "end": 27394,
-        "ref_start": 27201,
         "product_id": 6,
-        "start": 27208,
-        "product_name": "ORF6 protein"
+        "product_name": "ORF6 protein",
+        "end": 27425,
+        "start": 27239,
+        "ref_end": 27387,
+        "ref_start": 27201
     },
     {
-        "ref_end": 27759,
-        "end": 27766,
-        "ref_start": 27393,
         "product_id": 7,
-        "start": 27400,
-        "product_name": "ORF7a protein"
+        "product_name": "ORF7a protein",
+        "end": 27797,
+        "start": 27431,
+        "ref_end": 27759,
+        "ref_start": 27393
     },
     {
-        "ref_end": 28259,
-        "end": 28266,
-        "ref_start": 27893,
         "product_id": 8,
-        "start": 27900,
-        "product_name": "ORF8 protein"
+        "product_name": "ORF8 protein",
+        "end": 28297,
+        "start": 27931,
+        "ref_end": 28259,
+        "ref_start": 27893
     },
     {
-        "ref_end": 29533,
-        "end": 29540,
-        "ref_start": 28273,
         "product_id": 9,
-        "start": 28280,
-        "product_name": "nucleocapsid phosphoprotein"
+        "product_name": "nucleocapsid phosphoprotein",
+        "end": 29571,
+        "start": 28311,
+        "ref_end": 29533,
+        "ref_start": 28273
     },
     {
-        "ref_end": 29674,
-        "end": 29681,
-        "ref_start": 29557,
         "product_id": 10,
-        "start": 29564,
-        "product_name": "ORF10 protein"
+        "product_name": "ORF10 protein",
+        "end": 29712,
+        "start": 29595,
+        "ref_end": 29674,
+        "ref_start": 29557
     }
 ]

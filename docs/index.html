@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Tracking genotype of SARS-CoV-2">
     <link rel="stylesheet" type="text/css" href="lib/w3.css">
     <link rel="stylesheet" type="text/css" href="https://use.fontawesome.com/releases/v5.0.7/css/all.css">
@@ -14,32 +13,42 @@
     <header>
         <nav class="w3-bar w3-black w3-card">
             <a class="w3-bar-item fas fa-bars"></a>
-            <a class="w3-bar-item w3-button w3-padding-large w3-hide-small" href="#help">Help</a>
+            <a class="w3-bar-item w3-button w3-padding-large w3-hide-small" href="#timeDist">Time distribution</a>
+            <a class="w3-bar-item w3-button w3-padding-large w3-hide-small" href="#phylogeny">Tree</a>
+            <a class="w3-bar-item w3-button w3-padding-large w3-hide-small" href="#aaSubstitution">Amino acid</a>
             <a class="w3-bar-item w3-button w3-padding-large w3-hide-small" href="#contactUs">Contact us</a>
         </nav>
     </header>
     <div class="wrapper">
-        <main class="w3-content" role="main">
-            <div class="w3-row-padding w3-center section-content">
-                <h1>Tracking SARS-CoV-2 genotypes</h1>
-                <p class="text-left">
-                    Phylogenetic tree and SNPs
-                </p>
-                <!-- <img src="images/tree_and_snps.svg" alt=""> -->
-                <object data="images/tree_and_snps.svg" type="image/svg+xml"></object>
+        <main class="w3-center" role="main">
+            <h1 class="section-header">
+                Tracking SARS-CoV-2 genotypes
+            </h1>
+            <h4 class="section-header">
+                Number of sequenced genomes
+            </h4>
+            <div class="section-content" id="timeDist">
+                <div class="col-md-12">
+                    <object data="images/collection_time.svg" type="image/svg+xml" width="1200xp"></object>
+                </div>                    
             </div>
-            <div class="w3-row-padding w3-center section-content">
-                <p class="text-left">
-                    Amino acid substituions
-                </p>
-                <!-- <img src="images/amino_acids_substitutions.svg" alt=""> -->
-                <object data="images/amino_acids_substitutions.svg" type="image/svg+xml"></object>                
+            <h4 class="section-header">
+                Phylogenetic tree and SNPs
+            </h4>
+            <div class="section-content" id="phylogeny">
+                <object data="images/tree_and_snps.svg" type="image/svg+xml" width="700xp"></object>
+            </div>
+            <h4 class="section-header">
+                Amino acid substituions
+            </h4>
+            <div class="section-content" id="aaSubstitution">
+                <object data="images/amino_acids_substitutions.svg" width="700xp" type="image/svg+xml"></object>                
             </div>
         </main>
     </div>
-    <div class="w3-row-padding w3-container w3-card-4 w3-black" id="contactUs">
+    <div class="w3-container w3-card w3-black" id="contactUs">
         <h2>Contact us</h2>
-        <p class="text-left">
+        <p class="text-right">
             Tel: +86 - 000000000000
         </p>
     </div>
