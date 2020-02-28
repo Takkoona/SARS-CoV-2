@@ -1,6 +1,7 @@
 .ipynb_checkpoints
 Data/ByArea/
 SNPs/nonSNP/
+SNPs/identical.csv
 Figures/
 Transmission/
 SNPs/cds_product.json

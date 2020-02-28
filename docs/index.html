@@ -11,12 +11,11 @@
 </head>
 <body>
     <header>
-        <nav class="w3-bar w3-black w3-card">
-            <a class="w3-bar-item fas fa-bars"></a>
-            <a class="w3-bar-item w3-button w3-padding-large w3-hide-small" href="#timeDist">Time distribution</a>
-            <a class="w3-bar-item w3-button w3-padding-large w3-hide-small" href="#phylogeny">Tree</a>
-            <a class="w3-bar-item w3-button w3-padding-large w3-hide-small" href="#aaSubstitution">Amino acid</a>
-            <a class="w3-bar-item w3-button w3-padding-large w3-hide-small" href="#contactUs">Contact us</a>
+        <nav class="w3-bar w3-green w3-card">
+            <a class="w3-bar-item w3-button w3-padding-large" href="#timeDist">Time distribution</a>
+            <a class="w3-bar-item w3-button w3-padding-large" href="#phylogeny">Tree</a>
+            <a class="w3-bar-item w3-button w3-padding-large" href="#aaSubstitution">Amino acid</a>
+            <a class="w3-bar-item w3-button w3-padding-large" href="#contactUs">Contact us</a>
         </nav>
     </header>
     <div class="wrapper">
@@ -24,29 +23,29 @@
             <h1 class="section-header">
                 Tracking SARS-CoV-2 genotypes
             </h1>
-            <h4 class="section-header">
-                Number of sequenced genomes
+            <h4 class="section-header" id="timeDist">
+                Total sequenced genomes
             </h4>
-            <div class="section-content" id="timeDist">
+            <div class="section-content">
                 <div class="col-md-12">
                     <object data="images/collection_time.svg" type="image/svg+xml" width="1200xp"></object>
                 </div>                    
             </div>
-            <h4 class="section-header">
+            <h4 class="section-header" id="phylogeny">
                 Phylogenetic tree and SNPs
             </h4>
-            <div class="section-content" id="phylogeny">
+            <div class="section-content">
                 <object data="images/tree_and_snps.svg" type="image/svg+xml" width="700xp"></object>
             </div>
-            <h4 class="section-header">
+            <h4 class="section-header" id="aaSubstitution">
                 Amino acid substituions
             </h4>
-            <div class="section-content" id="aaSubstitution">
+            <div class="section-content">
                 <object data="images/amino_acids_substitutions.svg" width="700xp" type="image/svg+xml"></object>                
             </div>
         </main>
     </div>
-    <div class="w3-container w3-card w3-black" id="contactUs">
+    <div class="w3-container w3-card w3-green" id="contactUs">
         <h2>Contact us</h2>
         <p class="text-right">
             Tel: +86 - 000000000000

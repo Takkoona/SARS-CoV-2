@@ -23,4 +23,5 @@ a[class*="fa-bars"] {
 .wrapper {
     align-items: stretch;
     margin-top: 45px;
+    /* padding: 20px; */
 }
